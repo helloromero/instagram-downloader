@@ -11,4 +11,4 @@ Open *accountDetails.json* and place in specified fields your Instagram username
 `npm install`
 `npm run instagram-downloader` *instagram-account-to-get-content-from*
 
-Content gets saved into ./downloads/*instagram-account-to-get-content-from* directory.
+Downloaded content gets saved into ./downloads/*instagram-account-to-get-content-from* directory.
